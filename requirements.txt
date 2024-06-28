@@ -6,5 +6,6 @@ tgcrypto
 python-dotenv
 py-tgcalls==0.8.1rc1
 youtube-search-python
+gunicorn==19.7.1
 git+https://github.com/pyrogram/pyrogram
 git+https://github.com/asmsafone/downloader
