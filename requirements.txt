@@ -1,4 +1,5 @@
 pytube
+python24.1.1
 pillow
 aiohttp
 aiofiles
